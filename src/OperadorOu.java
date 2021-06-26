@@ -27,7 +27,8 @@ public class OperadorOu {
 		}
 
 		System.out.println("O valor final é de R$" + valorFinal);
-
+		
+		leitor.close();
 	}
 
 }
